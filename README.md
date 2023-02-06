@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -101,7 +100,6 @@ animation: blinker 3s linear infinite;
   </div>
   <div class="ke b">
      <audio controls src="https://raw.githubusercontent.com/Sonyfree/sonyfirmansyah.github.io/Sonyfree.github.io/onepiece.mp3"></audio>
-</div>
   </div>
   
   <div class="ke c">
@@ -109,5 +107,3 @@ animation: blinker 3s linear infinite;
             <h1>CONTACT</h1>
       <a href="https://wa.me/6283847561307?text=HELLO SONY"><img src="https://raw.githubusercontent.com/Sonyfree/sonyfirmansyah.github.io/Sonyfree.github.io/WhatsApp.svg-removebg-preview.png" style="height:100px;width:auto;">
         </a>
-</body>
-</html>
